@@ -58,7 +58,7 @@
   <br />
   <p align="center">
     <a href="https://github.com/Murshid">
-      <img align="center" width="430" src="https://github-readme-stats.vercel.app/api?username=Murshid&layout=compact&theme=radical&langs_count=6" />
+      <img align="center" width="430" src="https://github-readme-stats.vercel.app/api?username=murshidmhd&layout=compact&theme=radical&langs_count=6" />
     </a>
   </p>
 </details>

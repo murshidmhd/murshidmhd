@@ -7,7 +7,7 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20" height="20"> <b>About Me:</b>
 
-- 👨‍💻 Student at Brototype
+- 👨‍💻 Student at bridegon 
 - 🐍 Learning <i>Python Django + React</i>
 - 🚀 Currently diving into: **Python Django + React**
 - 🛠️ Love turning ideas into real-world projects
